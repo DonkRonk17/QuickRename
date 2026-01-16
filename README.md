@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1a4338b1-ab15-4c3d-a2a5-4494c58d00c3" />
+
 # ⚡ QuickRename
 
 **Batch File Renamer with Live Preview**
@@ -175,6 +177,7 @@ QuickRename/
 ├── README.md          # This file
 └── LICENSE            # MIT License
 ```
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d576970-feac-45ec-a9ab-9b894ed60930" />
 
 ---
 
