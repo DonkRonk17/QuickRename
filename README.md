@@ -196,18 +196,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+## 🙏 Credits
 
-**Randell Logan Smith** (Logan)  
-[Metaphy LLC](https://github.com/DonkRonk17)
+Created by **Randell Logan Smith and Team Brain** at [Metaphy LLC](https://metaphysicsandcomputing.com)
 
----
-
-## 🙏 Acknowledgments
-
-- Built with [PySide6](https://wiki.qt.io/Qt_for_Python) (Qt for Python)
-- Inspired by the need for a simple, free batch renamer
-- Part of the Team Brain AI Collaborative project
+Part of the HMSS (Heavenly Morning Star System) ecosystem.
 
 ---
 
